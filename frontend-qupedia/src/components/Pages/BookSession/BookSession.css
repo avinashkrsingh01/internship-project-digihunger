@@ -1,0 +1,123 @@
+body {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+  }
+  
+  .shopping-card-co{
+    background-color: white;
+    padding: 40px;
+  }
+  .checkout-container-bs {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+    background-color: white;
+  }
+  
+  .checkout-left-bs {
+    flex: 2;
+  }
+  
+  .course-item-bs {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .course-image-bs {
+    width: 50px;
+    height: 50px;
+    border-radius: 4px;
+  }
+  
+  .course-title-bs {
+    flex: 1;
+    font-size: 1.2rem;
+  }
+  
+  .remove-btn-bs {
+    background-color: #fff;
+    border: 1px solid #000;
+    padding: 0.3rem 0.8rem;
+    cursor: pointer;
+  }
+  
+  .course-price-bs {
+    font-size: 1rem;
+    font-weight: bold;
+  }
+  
+  .total-price-bs {
+    margin: 1rem;
+    font-size: 2.2rem;
+    padding-left: 2rem;
+  }
+  
+  .checkout-right-bs {
+
+    flex: 1;
+    border-left: 1px solid #eaeaea;
+    padding-left: 2rem;
+  }
+  
+  .checkout-form-bs label {
+    display: block;
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .checkout-form-bs input,
+  .checkout-form-bs select {
+    width: 100%;
+    padding: 0.8rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ddd;
+    /* border-radius: 4px; */
+    font-size: 0.9rem;
+  }
+  
+  .checkout-form-bs input{
+    width: 91.5%;
+  }
+  .pay-now-btn-bs {
+    background-color: #6c3483;
+    color: #fff;
+    border: none;
+    padding: 0.8rem 0;
+    width: 100%;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .promotions-bs {
+    margin-top: 2rem;
+  }
+  
+  .promotions-bs input {
+    width: calc(100% - 5rem);
+    margin-right: 0.5rem;
+    padding: 0.8rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 91.5%;
+
+  }
+  
+  .apply-btn-bs {
+    background-color: #6c3483;
+    color: #fff;
+    border: none;
+    width: 100%;
+    padding: 0.8rem;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .checkout-form-bs{
+    border: 1px solid black;
+    padding: 20px;
+  }

@@ -1,0 +1,131 @@
+.TwoD2 {
+    font-family: Arial, sans-serif;
+  }
+  
+  .hero-section2 {
+    background-image: url("/src/components/Pages/WebDeveloper/Group60@2x (1).png");
+    background-size: cover;
+    height: 25vh;
+    background-position: center;
+    color: white;
+    text-align: left;
+    padding: 50px 20px;
+  }
+  
+  .hero-heading2 {
+    font-size: 2.5rem;
+    margin-right: 900px;
+    font: 40px system-ui, -apple-system;
+    padding: 50px 20px;
+    font-weight: 400;
+
+
+  }
+  
+  .highlight2 {
+    color: #f97007;
+  }
+  
+
+  .breadcrumb2 {
+    margin: 25px 40px;
+    color: #555;
+    font-size: 0.9rem;
+  }
+  
+
+  .category-section2 {
+    padding: 20px;
+    margin: 20px 20px;
+  }
+  
+  .category-section2 h2 {
+    font-size: 1.8rem;
+    color: #333;
+  }
+  
+  .category-section2 .highlight2 {
+    color: #f6c700; 
+  }
+  
+  .course-card2 {
+    padding: 15px;
+    display: flex;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-top: 20px;
+    
+  }
+  
+  .course-image2 {
+    width: 300px;
+    height: 200px;
+  }
+  
+  .course-content2 {
+    flex: 1;
+    padding: 15px;
+  }
+  
+  .course-title2 {
+    font-size: 1.5rem;
+    color: #333;
+    margin: 0;
+  }
+  
+  .course-description2 {
+    margin: 10px 0;
+    color: #555;
+  }
+  
+  .course-mentor2 {
+    font-size: 0.9rem;
+    margin: 10px 0;
+    color: #777;
+    display: flex;
+    align-items: center;
+    
+  }
+  
+  .course-details2 {
+    font-size: 0.9rem;
+    margin: 10px 0;
+    color: #555;
+  }
+  
+  .course-tag2 {
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #F97007;
+  }
+  
+  .course-buttons2 {
+    margin-top: 10px;
+  }
+  
+  .btn2 {
+    padding: 10px 15px;
+    margin-right: 5px;
+    border: none;
+    /* border-radius: 4px; */
+    /* font-size: 12px; */
+    font-weight: 700;
+    cursor: pointer;
+  }
+  
+  .btn-add-to-cart2 {
+    background-color: #813588;
+    color: #fff;
+    margin-left: 820px;
+  }
+  
+  .btn-view2 {
+    background-color: #813588;
+    color: #fff;
+  }
+  
+  .mentor-img2{
+    border-radius: 50%;
+    margin-right: 13px;
+  }

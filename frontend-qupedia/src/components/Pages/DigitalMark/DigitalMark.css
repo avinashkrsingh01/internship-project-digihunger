@@ -1,0 +1,131 @@
+.digitalmark {
+    font-family: Arial, sans-serif;
+  }
+  
+  .hero-sectiondm {
+    background-image: url("/src/components/Pages/WebDeveloper/Group60@2x (1).png");
+    background-size: cover;
+    height: 25vh;
+    background-position: center;
+    color: white;
+    text-align: left;
+    padding: 50px 20px;
+  }
+  
+  .hero-headingdm {
+    font-size: 2.5rem;
+    margin-right: 900px;
+    font: 40px system-ui, -apple-system;
+    padding: 50px 20px;
+    font-weight: 400;
+
+
+  }
+  
+  .highlightdm {
+    color: #f97007;
+  }
+  
+
+  .breadcrumbdm {
+    margin: 25px 40px;
+    color: #555;
+    font-size: 0.9rem;
+  }
+  
+
+  .category-sectiondm {
+    padding: 20px;
+    margin: 20px 20px;
+  }
+  
+  .category-sectiondm h2 {
+    font-size: 1.8rem;
+    color: #333;
+  }
+  
+  .category-sectiondm .highlight2 {
+    color: #f6c700; 
+  }
+  
+  .course-carddm {
+    padding: 15px;
+    display: flex;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-top: 20px;
+    
+  }
+  
+  .course-imagedm {
+    width: 300px;
+    height: 200px;
+  }
+  
+  .course-contentdm {
+    flex: 1;
+    padding: 15px;
+  }
+  
+  .course-titledm {
+    font-size: 1.5rem;
+    color: #333;
+    margin: 0;
+  }
+  
+  .course-descriptiondm {
+    margin: 10px 0;
+    color: #555;
+  }
+  
+  .course-mentordm {
+    font-size: 0.9rem;
+    margin: 10px 0;
+    color: #777;
+    display: flex;
+    align-items: center;
+    
+  }
+  
+  .course-detailsdm {
+    font-size: 0.9rem;
+    margin: 10px 0;
+    color: #555;
+  }
+  
+  .course-tagdm {
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #F97007;
+  }
+  
+  .course-buttonsdm {
+    margin-top: 10px;
+  }
+  
+  .btndm {
+    padding: 10px 15px;
+    margin-right: 5px;
+    border: none;
+    /* border-radius: 4px; */
+    /* font-size: 12px; */
+    font-weight: 700;
+    cursor: pointer;
+  }
+  
+  .btn-add-to-cartdm {
+    background-color: #813588;
+    color: #fff;
+    margin-left: 820px;
+  }
+  
+  .btn-viewdm {
+    background-color: #813588;
+    color: #fff;
+  }
+  
+  .mentor-imgdm{
+    border-radius: 50%;
+    margin-right: 13px;
+  }

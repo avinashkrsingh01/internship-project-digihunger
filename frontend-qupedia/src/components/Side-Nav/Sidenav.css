@@ -1,0 +1,31 @@
+.sidenav-container{
+    height: 86vh;
+    width: 27.5vw;
+    background-color: #813588;
+    text-align: left;
+    overflow: auto;
+}
+.course-btns{
+    align-content: center;
+    height: 58px;
+    width: 100%;
+    background-color: #a233ad;
+    margin-bottom:5px ;
+    box-sizing: border-box;
+    padding-left: 20px;
+}
+.course-btns a{
+    color: aliceblue;
+    text-decoration: none;
+}
+.course-btns a:hover{
+    color: rgb(251, 118, 52);
+    text-decoration: none;
+}
+
+
+
+.img-cat{
+    margin: 0px 10px 0px 10px;
+    
+}

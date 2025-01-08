@@ -1,0 +1,85 @@
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .footer-top {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+    /* border-bottom: 1px solid #444; */
+  }
+  
+  .footer-section {
+    flex: 1;
+    margin: 0 20px;
+    padding: 10px 40px;
+
+  }
+  
+  .footer-section h2, .footer-section h3 {
+    font-weight: bold;
+  }
+  
+  .footer-section p {
+    font-size: 17px;
+    line-height: 1.5;
+  }
+  
+  .social-icons {
+    display: flex;
+    gap: 15px;
+    margin-top: 10px;
+  }
+  
+  .social-icons i {
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  .footer-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-section li {
+    font-size: 16px;
+    margin: 8px 0;
+  }
+  
+  .footer-middle {
+    text-align:left;
+    padding: 20px 0;
+    border-bottom: 1px solid #444;
+  }
+  .footer-middle p{
+    padding: 10px 40px;
+  }
+  
+  .footer-middle h3 {
+    font-weight: bold;
+    font-size: 26px;
+    padding: 10px 40px;
+  }
+  
+  .footer-bottom {
+    text-align: left;
+    padding: 15px 0;
+    padding: 10px 40px;
+
+  }
+  
+  .footer-bottom p {
+    font-size: 16px;
+    padding: 5px 0px;
+  }
+  
+  .support-email {
+    color: #ff6600; /* Orange color for email */
+  }
+  .email-section{
+    text-align: right;
+    margin-top: -20px;
+  }

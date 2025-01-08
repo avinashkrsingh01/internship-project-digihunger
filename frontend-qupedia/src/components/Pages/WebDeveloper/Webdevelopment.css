@@ -1,0 +1,131 @@
+.Webdevelopmentw {
+    font-family: Arial, sans-serif;
+  }
+  
+  .hero-sectionw {
+    background-image: url("/src/components/Pages/WebDeveloper/Group60@2x (1).png");
+    background-size: cover;
+    height: 25vh;
+    background-position: center;
+    color: white;
+    text-align: left;
+    padding: 50px 20px;
+  }
+  
+  .hero-headingw {
+    font-size: 2.5rem;
+    margin-right: 900px;
+    font: 40px system-ui, -apple-system;
+    padding: 50px 20px;
+    font-weight: 400;
+
+
+  }
+  
+  .highlightw {
+    color: #f97007;
+  }
+  
+
+  .breadcrumbw {
+    margin: 25px 40px;
+    color: #555;
+    font-size: 0.9rem;
+  }
+  
+
+  .category-sectionw {
+    padding: 20px;
+    margin: 20px 20px;
+  }
+  
+  .category-sectionw h2 {
+    font-size: 1.8rem;
+    color: #333;
+  }
+  
+  .category-sectionw .highlightw {
+    color: #f6c700; 
+  }
+  
+  .course-cardw {
+    padding: 15px;
+    display: flex;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-top: 20px;
+    
+  }
+  
+  .course-imagew {
+    width: 300px;
+    height: 200px;
+  }
+  
+  .course-contentw {
+    flex: 1;
+    padding: 15px;
+  }
+  
+  .course-titlew {
+    font-size: 1.5rem;
+    color: #333;
+    margin: 0;
+  }
+  
+  .course-descriptionw {
+    margin: 10px 0;
+    color: #555;
+  }
+  
+  .course-mentorw {
+    font-size: 0.9rem;
+    margin: 10px 0;
+    color: #777;
+    display: flex;
+    align-items: center;
+    
+  }
+  
+  .course-detailsw {
+    font-size: 0.9rem;
+    margin: 10px 0;
+    color: #555;
+  }
+  
+  .course-tagw {
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #F97007;
+  }
+  
+  .course-buttonsw {
+    margin-top: 10px;
+  }
+  
+  .btnw {
+    padding: 10px 15px;
+    margin-right: 5px;
+    border: none;
+    /* border-radius: 4px; */
+    /* font-size: 12px; */
+    font-weight: 700;
+    cursor: pointer;
+  }
+  
+  .btn-add-to-cartw {
+    background-color: #813588;
+    color: #fff;
+    margin-left: 820px;
+  }
+  
+  .btn-vieww {
+    background-color: #813588;
+    color: #fff;
+  }
+  
+  .mentor-imgw{
+    border-radius: 50%;
+    margin-right: 13px;
+  }

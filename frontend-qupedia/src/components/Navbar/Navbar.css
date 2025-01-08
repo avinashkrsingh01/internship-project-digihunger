@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+width: 100%;
+height: 8.5vh;
+display: flex;
+background-color:  #813588;
+/* position: relative; */
+gap: 10%;
+}
+input{
+    background-color: #e7e7e7;
+    font-size: x-large;
+}
+/* .search-section{
+    width: 50%;
+    height: 6vh;
+    background-color: rgb(155, 155, 155);
+    position: absolute; 
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+} */
+/* .search-logo{
+    height: inherit;
+    background-color: #f97007;
+    height: 6vh;
+    width: 6vh;
+
+} */
+.logo{
+    width: 10%;
+    height: 8.5vh;
+    text-align: center;
+    justify-content: center;
+    margin: 16px;
+}
+.logo h2{
+    color: aliceblue;
+    
+
+}
+.login{
+    color: aliceblue;
+    align-content:center ;
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+.login a{
+    margin: 16px;
+    color: aliceblue;
+    margin-top: 5px;
+    text-decoration: none;
+}
+/* .category {
+    border: none;
+    padding: 10px;
+    background-color: #ffffff;
+    color: black;
+    font-size: 16px;
+    padding-right: 40px;
+  } */
+  input{
+    width: 72%;
+  }
+  .search-logo{
+    align-content: center;
+    padding-left:15px ;
+  }
+
+  .company-name{
+    font-size: xx-large;
+  }
+
+  .login-logo{
+    font-size: 20px;
+    margin-bottom:13px ;
+    margin-right: -10px;
+  }
+
+  /* Navbar.css */
+.navbars {
+    margin-left: 70px;
+    margin-right: 15px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    width: 50%;
+    height: 6vh;
+    padding: 10px 0px;
+
+  }
+  
+  .dropdown-select {
+    padding: 10px;
+    border: none;
+    /* border-radius: 5px 0 0 5px; */
+    outline: none;
+    font-size: 16px;
+    flex-shrink: 0;
+    height: 6vh;
+  }
+  
+  .search-input {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    height: 3.5vh;
+    /* border-radius: 0; */
+    outline: none;
+    font-size: 17px;
+    /* color: #f1f1f1; */
+  }
+  
+  .search-button {
+    background-color: #ff7f27; /* Orange color */
+    border: none;
+    /* border-radius: 0 5px 5px 0; */
+    color: white;
+    height: 6vh;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px 20px;
+  }
+  
+  .search-button:hover {
+    background-color: #e66b1f; /* Darker orange on hover */
+  }
+  
+  .search-button .icon {
+    font-size: 18px;
+  }
+  

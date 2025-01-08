@@ -1,0 +1,13 @@
+.oneToOne-container{
+    height: 40vh;
+    width: 100vw;
+}
+.img-fluid{
+    max-width: 100%;
+    margin: 0px 20px;
+    height: auto;
+}
+
+.img-div{
+    padding: 45px 15px 5px 30px;
+}

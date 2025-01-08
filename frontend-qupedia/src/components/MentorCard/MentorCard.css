@@ -1,0 +1,65 @@
+/* MentorCard.css */
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .mentor-cards-container {
+    display: flex;
+  
+    /* justify-content: space-around; */
+    align-items: flex-start;
+    flex-wrap: wrap;
+    padding: 2rem;
+    gap: 1.5rem;
+  }
+  
+  .cards {
+    background-color: #f4f4f4;
+    /* border-radius: 8px; */
+    width: 325px;
+    
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .mentor-image {
+    width: 325px;
+    height: 240px;
+    /* border-radius: 50%; */
+    margin-bottom: 1rem;
+  }
+  
+  .card h3 {
+    font-size: 1.25rem;
+    margin: 0.5rem 0;
+  }
+  
+  .card > p {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 1rem;
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px 5px 5px 5px;
+  }
+  
+
+  .chat-button1 {
+    border: none;
+    cursor: pointer;
+    margin-left: 17px;
+  }
+  
+  .book-session-button1 {
+    border: none;
+    cursor: pointer;
+    margin-right: 17px;
+  }

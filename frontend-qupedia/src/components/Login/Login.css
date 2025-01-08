@@ -1,0 +1,68 @@
+
+  .app-container-lo {
+    display: flex;
+    margin: 150px auto;
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  .form-container-lo {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    text-align: center;
+  }
+  
+  .logo-lo {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .input-field-lo {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 1rem;
+    outline: none;
+  }
+  
+  .input-field-lo:focus {
+    border-color: #8e44ad;
+  }
+  
+  .action-button-lo {
+    background-color: #8e44ad;
+    color: #fff;
+    border: none;
+    padding: 12px;
+    border-radius: 5px;
+    width: 100%;
+    font-size: 1rem;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .action-button-lo:hover {
+    background-color: #732d91;
+  }
+  
+  .switch-text-lo {
+    margin-top: 15px;
+    font-size: 0.9rem;
+  }
+  
+  .link-text-lo {
+    color: #8e44ad;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .link-text-lo:hover {
+    text-decoration: underline;
+  }
+  

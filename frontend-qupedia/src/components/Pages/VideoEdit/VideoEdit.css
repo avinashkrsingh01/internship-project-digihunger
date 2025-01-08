@@ -1,0 +1,132 @@
+.VideoEditv {
+    font-family: Arial, sans-serif;
+  }
+  
+  .hero-sectionv {
+    background-image: url("/src/components/Pages/WebDeveloper/Group60@2x (1).png");
+    background-size: cover;
+    height: 25vh;
+    background-position: center;
+    color: white;
+    text-align: left;
+    padding: 50px 20px;
+  }
+  
+  .hero-headingv {
+    font-size: 2.5rem;
+    margin-right: 900px;
+    font: 40px system-ui, -apple-system;
+    padding: 50px 20px;
+    font-weight: 400;
+
+
+  }
+  
+  .highlightv {
+    color: #f97007;
+  }
+  
+
+  .breadcrumbv {
+    margin: 25px 40px;
+    color: #555;
+    font-size: 0.9rem;
+  }
+  
+
+  .category-sectionv {
+    padding: 20px;
+    margin: 20px 20px;
+  }
+  
+  .category-sectionv h2 {
+    font-size: 1.8rem;
+    color: #333;
+  }
+  
+  .category-sectionv .highlightv {
+    color: #f6c700; 
+  }
+  
+  .course-cardv {
+    padding: 15px;
+    display: flex;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-top: 20px;
+    
+  }
+  
+  .course-imagev {
+    width: 300px;
+    height: 200px;
+  }
+  
+  .course-contentv {
+    flex: 1;
+    padding: 15px;
+  }
+  
+  .course-titlev {
+    font-size: 1.5rem;
+    color: #333;
+    margin: 0;
+  }
+  
+  .course-descriptionv {
+    margin: 10px 0;
+    color: #555;
+  }
+  
+  .course-mentorv {
+    font-size: 0.9rem;
+    margin: 10px 0;
+    color: #777;
+    display: flex;
+    align-items: center;
+    
+  }
+  
+  .course-detailsv {
+    font-size: 0.9rem;
+    margin: 10px 0;
+    color: #555;
+  }
+  
+  .course-tagv {
+    font-weight: bold;
+    padding: 3px;
+    color: #ffffff;
+    background-color: #F97007;
+  }
+  
+  .course-buttonsv {
+    margin-top: 10px;
+  }
+  
+  .btnv {
+    padding: 10px 15px;
+    margin-right: 5px;
+    border: none;
+    /* border-radius: 4px; */
+    /* font-size: 12px; */
+    font-weight: 700;
+    cursor: pointer;
+  }
+  
+  .btn-add-to-cartv {
+    background-color: #813588;
+    color: #fff;
+    margin-left: 820px;
+  }
+  
+  .btn-viewv {
+    background-color: #813588;
+    color: #fff;
+  }
+  
+  .mentor-imgv{
+    border-radius: 50%;
+    margin-right: 13px;
+  }
